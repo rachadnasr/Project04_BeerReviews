@@ -1,5 +1,7 @@
 # Project04_BeerReviews
 ​
+##NOTE: Data files too big to upload: Original datasource can be found here: https://www.kaggle.com/datasets/rdoume/beerreviews
+
 ## Team 
 Rachad and Jonathon
 ​
