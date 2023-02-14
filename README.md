@@ -1,7 +1,7 @@
 # Project04_BeerReviews
 
 ## Team 
-Rachad and Jonathan
+Rachad and Jonathon
 
 ## Project Description
 
